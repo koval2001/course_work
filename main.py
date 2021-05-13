@@ -1,6 +1,7 @@
 import glob
 import json
 import re
+from time import time
 
 dictionary_word = {}
 
@@ -37,5 +38,10 @@ def write_dictionary():
 
 if __name__ == '__main__':
     files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets'
+    start_time = time()
     prepare_text(files_path)
     write_dictionary()
+    duration = time() - start_time
+
+    print('Serial dictionary is ready')
+    print('Serial duration time: ' + str(duration))
