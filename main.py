@@ -1,16 +1,41 @@
-# This is a sample Python script.
+import glob
+import json
+import re
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+dictionary_word = {}
+
+def prepare_text(files_path):
+    regex = re.compile('[^a-zA-Z]')
+
+    for file_name in glob.iglob(files_path + "/*.txt"):
+        f = open(file_name, "r")
+        text = f.readlines()
+        for line in text:
+            word_list = line.split(' ')
+            current_line = []
+            for word in word_list:
+                current_line.append(regex.sub('', word).lower())
+            inverted_index(current_line, file_name)
+        f.close()
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+def inverted_index(current_line, file_name):
+    position_word = 0
+    for word in current_line:
+        if word not in dictionary_word.keys():
+            dictionary_word[word] = [(position_word, file_name)]
+        else:
+            dictionary_word[word] += [(position_word, file_name)]
+        position_word += 1
 
 
-# Press the green button in the gutter to run the script.
+def write_dictionary():
+    f = open('serial_dictionary.txt', 'a')
+    f.write(json.dumps(dictionary_word, indent=4))
+    f.close()
+
+
 if __name__ == '__main__':
-    print_hi('course work')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets'
+    prepare_text(files_path)
+    write_dictionary()
