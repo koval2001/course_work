@@ -3,6 +3,8 @@ import json
 import re
 from time import time
 
+from pip._vendor.distlib.compat import raw_input
+
 dictionary_word = {}
 
 def prepare_text(files_path):
@@ -36,12 +38,23 @@ def write_dictionary():
     f.close()
 
 
+def lookup_query(query):
+    for word in dictionary_word.keys() :
+        if(query == word) :
+            return('The reasult of search: ' + json.dumps(dictionary_word[word],indent=4))
+    return ('Sorry, there is no such word :(')
+
 if __name__ == '__main__':
     files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets'
     start_time = time()
     prepare_text(files_path)
     write_dictionary()
     duration = time() - start_time
+
+    print(dictionary_word)
+
+    search_term = raw_input("Enter term(s) to search: ")
+    lookup_query(search_term)
 
     print('Serial dictionary is ready')
     print('Serial duration time: ' + str(duration))
