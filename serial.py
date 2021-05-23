@@ -3,11 +3,14 @@ import json
 import re
 from time import time
 
-from pip._vendor.distlib.compat import raw_input
-
 dictionary_word = {}
 
 def prepare_text(files_path):
+    """
+    Normalizing words for building inverted index
+    :param files_path: list of files' path
+    :return:
+    """
     regex = re.compile('[^a-zA-Z]')
 
     for file_name in glob.iglob(files_path + "/*.txt"):
@@ -23,6 +26,12 @@ def prepare_text(files_path):
 
 
 def inverted_index(current_line, file_name):
+    """
+    Creating an inverted index
+    :param current_line:
+    :param file_name:
+    :return:
+    """
     position_word = 0
     for word in current_line:
         if word not in dictionary_word.keys():
@@ -33,28 +42,42 @@ def inverted_index(current_line, file_name):
 
 
 def write_dictionary():
+    """
+    Writing inverted index to .txt file
+    :return:
+    """
     f = open('serial_dictionary.txt', 'w')
     f.write(json.dumps(dictionary_word, indent=4))
     f.close()
 
 
 def lookup_query(query):
-    for word in dictionary_word.keys() :
-        if(query == word) :
-            return('The reasult of search: ' + json.dumps(dictionary_word[word],indent=4))
+    """
+    Seeking a word in inverted index
+    :param query:
+    :return: a word's position and files' names where it was found
+    """
+    if (dictionary_word.get(query, False)):
+        return ('The reasult of search: ' + json.dumps(dictionary_word[query], indent=4))
+
     return ('Sorry, there is no such word :(')
 
+
 if __name__ == '__main__':
+    # basic variables
     files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets'
     start_time = time()
+
+    # indexing
     prepare_text(files_path)
     write_dictionary()
     duration = time() - start_time
 
-    print(dictionary_word)
+    # seeking a word in inverted index
+    search_term = input("Enter term to search: ")
+    search_result = lookup_query(search_term)
+    print(search_result)
 
-    search_term = raw_input("Enter term(s) to search: ")
-    lookup_query(search_term)
-
+    # finishing main and printing duration time
     print('Serial dictionary is ready')
     print('Serial duration time: ' + str(duration))
