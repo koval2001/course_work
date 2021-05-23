@@ -1,12 +1,12 @@
 import glob
 import json
 import re
-import threading
+import multiprocessing as mp
 import socket
 from time import time
 
 dictionary_word = {}
-mutex = threading.Lock()
+mutex = mp.Lock()
 
 def prepare_text(files_array):
     regex = re.compile('[^a-zA-Z]')
@@ -15,14 +15,10 @@ def prepare_text(files_array):
         f = open(file_name, "r")
         text = f.readlines()
         for line in text:
-            mutex.acquire()
             word_list = line.split(' ')
-            mutex.release()
             current_line = []
             for word in word_list:
-                mutex.acquire()
                 current_line.append(regex.sub('', word).lower())
-                mutex.release()
             inverted_index(current_line, file_name)
         f.close()
 
@@ -30,13 +26,13 @@ def prepare_text(files_array):
 def inverted_index(current_line, file_name):
     position_word = 0
     for word in current_line:
+        mutex.acquire()
         if word not in dictionary_word.keys():
             dictionary_word[word] = [(position_word, file_name)]
         else:
             dictionary_word[word] += [(position_word, file_name)]
-        mutex.acquire()
-        position_word += 1
         mutex.release()
+        position_word += 1
 
 
 def write_dictionary():
@@ -80,17 +76,17 @@ if __name__ == '__main__':
     start_time = time()
     files_array = list(glob.iglob(files_path + "/*.txt"))
     separation_array = separate_content(files_array, number_processes)
-    threads = []
+    processes = []
     # end of basic variables
 
     # starting threads
     for file_batch in separation_array:
-        thread = threading.Thread(target=prepare_text, args=(file_batch,))
-        thread.start()
-        threads.append(thread)
+        process = mp.Process(target=prepare_text, args=(file_batch,))
+        process.start()
+        processes.append(process)
 
-    for thread in threads:
-        thread.join()
+    for process in processes:
+        process.join()
     # end of threads
 
     # save inverted index in file
