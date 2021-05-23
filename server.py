@@ -5,9 +5,8 @@ import threading
 import socket
 from time import time
 
-from pip._vendor.distlib.compat import raw_input
-
 dictionary_word = {}
+mutex = threading.Lock()
 
 def prepare_text(files_array):
     regex = re.compile('[^a-zA-Z]')
@@ -16,10 +15,14 @@ def prepare_text(files_array):
         f = open(file_name, "r")
         text = f.readlines()
         for line in text:
+            mutex.acquire()
             word_list = line.split(' ')
+            mutex.release()
             current_line = []
             for word in word_list:
+                mutex.acquire()
                 current_line.append(regex.sub('', word).lower())
+                mutex.release()
             inverted_index(current_line, file_name)
         f.close()
 
@@ -31,7 +34,9 @@ def inverted_index(current_line, file_name):
             dictionary_word[word] = [(position_word, file_name)]
         else:
             dictionary_word[word] += [(position_word, file_name)]
+        mutex.acquire()
         position_word += 1
+        mutex.release()
 
 
 def write_dictionary():
@@ -50,9 +55,8 @@ def separate_content(files_array, number_processes):
     return files_batch
 
 def lookup_query(query):
-    for word in dictionary_word.keys() :
-        if(query == word) :
-            return('The reasult of search: ' + json.dumps(dictionary_word[word],indent=4))
+    if(dictionary_word.get(query, False)) :
+        return('The reasult of search: ' + json.dumps(dictionary_word[query],indent=4))
 
     return('Sorry, there is no such word :(')
 

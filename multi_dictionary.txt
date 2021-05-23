@@ -26,15 +26,23 @@
         ],
         [
             0,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            8,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             14,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            108,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            86,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            129,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             3,
@@ -82,23 +90,15 @@
         ],
         [
             0,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            8,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             14,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
-            86,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            129,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            108,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             14,
@@ -123,12 +123,12 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            4,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
             2,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            4,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
     "and": [
@@ -147,6 +147,30 @@
         [
             141,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
+        ],
+        [
+            55,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            113,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            2,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            44,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            71,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            84,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
         [
             12,
@@ -171,30 +195,6 @@
         [
             117,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            2,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            44,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            71,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            84,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            55,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            113,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             61,
@@ -225,6 +225,14 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
+            5,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            97,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
             6,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
@@ -239,14 +247,6 @@
         [
             112,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            97,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            5,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             0,
@@ -283,24 +283,20 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            7,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            6,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            22,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            65,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            66,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            92,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            80,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            113,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            145,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             20,
@@ -327,20 +323,24 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
         [
-            6,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            7,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
-            65,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            22,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
-            92,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            66,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
-            145,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            80,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            113,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             1,
@@ -419,20 +419,12 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            4,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            3,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            17,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            34,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            77,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            78,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             5,
@@ -447,12 +439,20 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
         [
-            3,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            4,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
-            78,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            17,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            34,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            77,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             7,
@@ -487,38 +487,6 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            59,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            92,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            99,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            103,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            60,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            79,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            89,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            134,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
             19,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
@@ -537,6 +505,38 @@
         [
             144,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            60,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            79,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            89,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            134,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            59,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            92,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            99,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            103,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             22,
@@ -581,22 +581,6 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            40,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            64,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            88,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            102,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
             34,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
@@ -611,6 +595,22 @@
         [
             96,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            40,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            64,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            88,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            102,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             38,
@@ -657,10 +657,6 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            51,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
             16,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
@@ -679,6 +675,10 @@
         [
             146,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            51,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             21,
@@ -715,8 +715,16 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            1,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            44,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            74,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            140,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             22,
@@ -739,16 +747,8 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
         [
-            44,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            74,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            140,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            1,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             2,
@@ -779,12 +779,12 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            5,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
             4,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            5,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             26,
@@ -807,10 +807,6 @@
         [
             148,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
-        ],
-        [
-            98,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             15,
@@ -853,6 +849,10 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
         [
+            98,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
             71,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
         ]
@@ -887,20 +887,20 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            41,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            67,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
             97,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             139,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            41,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            67,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
     "knew": [
@@ -961,12 +961,12 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            53,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
             1,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            53,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
     "able": [
@@ -981,16 +981,16 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            56,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
             43,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
         [
             70,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            56,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
     "comedy": [
@@ -1045,6 +1045,74 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
+            23,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            49,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            64,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            69,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            82,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            88,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            91,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            107,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            136,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            7,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            19,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            24,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            33,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            64,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            68,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            74,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            114,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
             21,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
@@ -1083,74 +1151,6 @@
         [
             128,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            7,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            19,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            24,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            33,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            64,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            68,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            74,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            114,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            23,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            49,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            64,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            69,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            82,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            88,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            91,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            107,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            136,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             12,
@@ -1197,6 +1197,10 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
+            75,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
             35,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
@@ -1207,10 +1211,6 @@
         [
             128,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            75,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
     "well": [
@@ -1297,20 +1297,20 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            116,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            62,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
             35,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             112,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            62,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            116,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
     "is": [
@@ -1375,16 +1375,16 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
+            18,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
             54,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
         [
             112,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            18,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
     "exactly": [
@@ -1479,16 +1479,16 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            32,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
             51,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             110,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            32,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
     "moved": [
@@ -1535,10 +1535,6 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            75,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
             37,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
@@ -1549,6 +1545,10 @@
         [
             119,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            75,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             73,
@@ -1581,10 +1581,6 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            30,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
             22,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
@@ -1595,6 +1591,10 @@
         [
             135,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            30,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
         [
             46,
@@ -1611,10 +1611,6 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            81,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
             16,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ],
@@ -1625,6 +1621,10 @@
         [
             107,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            81,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
             5,
@@ -1717,20 +1717,20 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ],
         [
-            90,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            117,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
             20,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
             38,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            90,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            117,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
     "suggest": [
@@ -1779,43 +1779,81 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/demofile.txt"
         ]
     ],
-    "fortunate": [
-        [
-            2,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "enough": [
-        [
-            3,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            58,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "on": [
-        [
-            8,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            150,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "prerelease": [
+    "have": [
         [
             9,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            57,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            28,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ]
+    ],
+    "always": [
+        [
+            10,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "liked": [
+        [
+            11,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            87,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "felt": [
+        [
+            15,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "job": [
+        [
+            21,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            75,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ]
+    ],
+    "butterfly": [
+        [
+            24,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "effect": [
+        [
+            25,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            80,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "unfortunately": [
+        [
+            26,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "even": [
+        [
+            27,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
     "though": [
-        [
-            13,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
         [
             28,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
@@ -1823,173 +1861,63 @@
         [
             63,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "wasnt": [
-        [
-            15,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "expecting": [
-        [
-            16,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "actually": [
-        [
-            18,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "really": [
-        [
-            19,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
-            83,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            38,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            49,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            61,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            69,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ]
-    ],
-    "enjoyed": [
-        [
-            20,
+            13,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "for": [
+    "these": [
         [
-            23,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            58,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            99,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            76,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
+            29,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "most": [
-        [
-            25,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "part": [
-        [
-            26,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "rescues": [
-        [
-            28,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "sea": [
+    "two": [
         [
             30,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            125,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "effects": [
+    "actors": [
         [
             31,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            109,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "amazing": [
+    "wereare": [
+        [
+            32,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "capable": [
         [
             33,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "watch": [
-        [
-            35,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            6,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            14,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ]
-    ],
-    "definitely": [
-        [
-            37,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            23,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            143,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "provided": [
+    "if": [
         [
-            38,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            36,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            136,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
-    "edge": [
+    "acting": [
         [
             39,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "seat": [
-        [
-            42,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "tense": [
-        [
-            43,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
     "moments": [
+        [
+            40,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
         [
             44,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
@@ -1997,273 +1925,95 @@
         [
             96,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "some": [
+        [
+            41,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            40,
+            47,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            95,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "probably": [
+    "missing": [
         [
             45,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "all": [
+    "here": [
         [
             46,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            111,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            92,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ]
-    ],
-    "more": [
-        [
-            48,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            114,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            133,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "so": [
-        [
-            49,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            67,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
-        ]
-    ],
-    "knowing": [
-        [
-            50,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "there": [
-        [
-            52,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            73,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "are": [
-        [
-            53,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "guys": [
-        [
-            54,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "who": [
-        [
-            55,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "living": [
-        [
-            60,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "weaker": [
-        [
-            62,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "parts": [
-        [
-            63,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "revolve": [
-        [
-            67,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "largely": [
-        [
-            68,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "around": [
-        [
-            69,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            93,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ]
-    ],
-    "using": [
-        [
-            70,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "stereotypical": [
-        [
-            71,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "set": [
-        [
-            72,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
     "scenes": [
         [
-            73,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
             50,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "im": [
-        [
-            74,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "going": [
-        [
-            76,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "spoil": [
-        [
-            78,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "follows": [
-        [
-            84,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "along": [
-        [
-            85,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "lines": [
-        [
-            87,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "an": [
-        [
-            89,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "officer": [
-        [
-            90,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "gentleman": [
-        [
-            93,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "those": [
-        [
-            95,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "give": [
-        [
-            97,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ],
         [
-            119,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+            73,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "just": [
+        [
+            52,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "believable": [
+        [
+            54,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "didnt": [
+        [
+            56,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            132,
+            11,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
-    "little": [
+    "enough": [
         [
-            100,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
-        [
-            76,
+            58,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            117,
+            3,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "story": [
+        [
+            59,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
+        ]
+    ],
+    "line": [
         [
-            132,
+            60,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "bit": [
+    "supportbr": [
         [
-            101,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "cheesy": [
-        [
-            104,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "aftertastebr": [
-        [
-            105,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            61,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
     "br": [
-        [
-            106,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ],
         [
             62,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
@@ -2285,6 +2035,10 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
+            106,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
             28,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
         ],
@@ -2293,68 +2047,314 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
         ]
     ],
-    "like": [
+    "claims": [
         [
-            107,
+            66,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "influence": [
+        [
+            67,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "hurricane": [
+        [
+            70,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "katrina": [
+        [
+            71,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "aftermath": [
+        [
+            72,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "there": [
+        [
+            73,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            52,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "said": [
+    "little": [
+        [
+            76,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            117,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            132,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            100,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "none": [
+        [
+            77,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "moviebr": [
+        [
+            83,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "overall": [
+        [
+            85,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "fact": [
+        [
+            89,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "brought": [
+        [
+            93,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "forward": [
+        [
+            94,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "goes": [
+        [
+            98,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "into": [
+        [
+            99,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "saving": [
+        [
+            100,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "lives": [
+        [
+            101,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "water": [
+        [
+            104,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "perspectivebr": [
+        [
+            105,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "special": [
+        [
+            108,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "effects": [
         [
             109,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
-        ]
-    ],
-    "over": [
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
         [
-            110,
+            31,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
     "pretty": [
         [
-            115,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            111,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ],
         [
-            111,
+            115,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "more": [
+        [
+            114,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            133,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            48,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "than": [
+        [
+            115,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            138,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "worth": [
+    "intimidating": [
         [
             118,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "checking": [
+    "sure": [
         [
-            119,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            120,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "long": [
+    "ever": [
         [
             122,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "deep": [
+        [
+            124,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "sea": [
+        [
+            125,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            30,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "get": [
+    "fishing": [
         [
             126,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
-    "past": [
+    "againbr": [
         [
             127,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "expected": [
+        [
+            130,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "emotion": [
+        [
+            134,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "film": [
+        [
+            137,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            19,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
+        ],
+        [
+            40,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
+        ]
+    ],
+    "presentedbr": [
+        [
+            141,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "definitely": [
+        [
+            143,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            23,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            37,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "clichs": [
+    "couldve": [
         [
-            129,
+            147,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "been": [
+        [
+            148,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ]
+    ],
+    "seen": [
+        [
+            149,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            29,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ]
+    ],
+    "on": [
+        [
+            150,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+        ],
+        [
+            8,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "dvd": [
+        [
+            151,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
     "my": [
@@ -2373,20 +2373,24 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
+    "watch": [
+        [
+            6,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            14,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            35,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
     "guardianat": [
         [
             8,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ]
-    ],
-    "didnt": [
-        [
-            11,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            56,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
     "want": [
@@ -2405,30 +2409,6 @@
         [
             25,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ]
-    ],
-    "have": [
-        [
-            28,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            9,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            57,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "seen": [
-        [
-            29,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            149,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
         ]
     ],
     "sometimethey": [
@@ -2451,6 +2431,32 @@
         [
             80,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ]
+    ],
+    "really": [
+        [
+            38,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            49,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            61,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            69,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            19,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            83,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
     "showed": [
@@ -2545,16 +2551,6 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
-    "job": [
-        [
-            75,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            21,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
     "isi": [
         [
             76,
@@ -2585,6 +2581,48 @@
         [
             86,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ]
+    ],
+    "all": [
+        [
+            92,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            46,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            111,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "around": [
+        [
+            93,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            69,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "for": [
+        [
+            99,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            23,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            58,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
+        [
+            76,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
         ]
     ],
     "seethe": [
@@ -2629,6 +2667,20 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
+    "give": [
+        [
+            119,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            132,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
+        ],
+        [
+            97,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
     "": [
         [
             121,
@@ -2663,366 +2715,314 @@
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
-    "if": [
-        [
-            136,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
-        ],
-        [
-            36,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
     "could": [
         [
             138,
             "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/1_10.txt"
         ]
     ],
-    "always": [
+    "fortunate": [
         [
-            10,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            2,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "liked": [
+    "prerelease": [
         [
-            11,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            87,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            9,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "felt": [
+    "wasnt": [
         [
             15,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "butterfly": [
+    "expecting": [
         [
-            24,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            16,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "effect": [
+    "actually": [
+        [
+            18,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "enjoyed": [
+        [
+            20,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "most": [
         [
             25,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            80,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "unfortunately": [
+    "part": [
         [
             26,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "even": [
+    "rescues": [
         [
-            27,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            28,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "these": [
-        [
-            29,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "two": [
-        [
-            30,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "actors": [
-        [
-            31,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "wereare": [
-        [
-            32,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "capable": [
+    "amazing": [
         [
             33,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "acting": [
+    "provided": [
+        [
+            38,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "edge": [
         [
             39,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "some": [
+    "seat": [
         [
-            41,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            47,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            95,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            42,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "missing": [
+    "tense": [
+        [
+            43,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "probably": [
         [
             45,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "here": [
+    "so": [
         [
-            46,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "just": [
-        [
-            52,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "believable": [
-        [
-            54,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "story": [
-        [
-            59,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "line": [
-        [
-            60,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "supportbr": [
-        [
-            61,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "claims": [
-        [
-            66,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "influence": [
+            49,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ],
         [
             67,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
         ]
     ],
-    "hurricane": [
+    "knowing": [
+        [
+            50,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "are": [
+        [
+            53,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "guys": [
+        [
+            54,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "who": [
+        [
+            55,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "living": [
+        [
+            60,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "weaker": [
+        [
+            62,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "parts": [
+        [
+            63,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "revolve": [
+        [
+            67,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "largely": [
+        [
+            68,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "using": [
         [
             70,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "katrina": [
+    "stereotypical": [
         [
             71,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "aftermath": [
+    "set": [
         [
             72,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "none": [
+    "im": [
         [
-            77,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            74,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "moviebr": [
+    "going": [
         [
-            83,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            76,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "overall": [
+    "spoil": [
+        [
+            78,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "follows": [
+        [
+            84,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "along": [
         [
             85,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "fact": [
+    "lines": [
+        [
+            87,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "an": [
         [
             89,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "brought": [
+    "officer": [
+        [
+            90,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "gentleman": [
         [
             93,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "forward": [
+    "those": [
         [
-            94,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            95,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "goes": [
-        [
-            98,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "into": [
-        [
-            99,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "saving": [
-        [
-            100,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "lives": [
+    "bit": [
         [
             101,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "water": [
+    "cheesy": [
         [
             104,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "perspectivebr": [
+    "aftertastebr": [
         [
             105,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "special": [
+    "like": [
         [
-            108,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            107,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "than": [
+    "said": [
         [
-            115,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            138,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            109,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "intimidating": [
+    "over": [
+        [
+            110,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
+        ]
+    ],
+    "worth": [
         [
             118,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "sure": [
+    "checking": [
         [
-            120,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            119,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "ever": [
+    "long": [
         [
             122,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "deep": [
-        [
-            124,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "fishing": [
+    "get": [
         [
             126,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "againbr": [
+    "past": [
         [
             127,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
-    "expected": [
+    "clichs": [
         [
-            130,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "emotion": [
-        [
-            134,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "film": [
-        [
-            137,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ],
-        [
-            19,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
-        ],
-        [
-            40,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/4_10.txt"
-        ]
-    ],
-    "presentedbr": [
-        [
-            141,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "couldve": [
-        [
-            147,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "been": [
-        [
-            148,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
-        ]
-    ],
-    "dvd": [
-        [
-            151,
-            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/5_7.txt"
+            129,
+            "/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/6_7.txt"
         ]
     ],
     "sadly": [
