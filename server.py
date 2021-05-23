@@ -58,6 +58,7 @@ def lookup_query(query):
 
 
 if __name__ == '__main__':
+    # server basics
     HOST = '127.0.0.1'
     PORT = 10000
 
@@ -66,7 +67,9 @@ if __name__ == '__main__':
     s.listen(5)
     conn, addr = s.accept()
     print('Connected by', addr)
+    # end of server basics
 
+    # basic variables
     files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets'
     number_processes = 4
 
@@ -74,8 +77,9 @@ if __name__ == '__main__':
     files_array = list(glob.iglob(files_path + "/*.txt"))
     separation_array = separate_content(files_array, number_processes)
     threads = []
+    # end of basic variables
 
-
+    # starting threads
     for file_batch in separation_array:
         thread = threading.Thread(target=prepare_text, args=(file_batch,))
         thread.start()
@@ -83,10 +87,18 @@ if __name__ == '__main__':
 
     for thread in threads:
         thread.join()
+    # end of threads
 
+    # save inverted index in file
     write_dictionary()
-    duration = time() - start_time
 
+    # duration time counted
+    duration = time() - start_time
+    print('Multi dictionary is ready')
+    print('Multi duration time: ' + str(duration))
+    # end of duration count block
+
+    # server's communication with client
     while True:
         print('sending message...')
         conn.sendall('\n Enter word: '.encode('utf-8'))
@@ -96,7 +108,4 @@ if __name__ == '__main__':
             break
         print('sending response...')
         conn.sendall(lookup_query(data.decode('utf-8')).encode('utf-8'))
-
-
-    print('Multi dictionary is ready')
-    print('Multi duration time: ' + str(duration))
+    # end of server's communication with client
