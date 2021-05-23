@@ -1,8 +1,9 @@
 import glob
 import json
 import re
-import threading
 from time import time
+from matplotlib import pyplot
+import multiprocessing as mp
 
 dictionary_word = {}
 
@@ -46,24 +47,44 @@ def separate_content(files_array, number_processes):
     files_batch.append(files_array[part_size * (number_processes - 1):])
     return files_batch
 
+def draw_results(list, num_process):
+    array_x = num_process
+    array_y = list
+
+    figure = pyplot.figure()
+    ax = figure.add_subplot()
+    ax.set_xlabel('Number of processes')
+    ax.set_ylabel('Time')
+    ax.set_title("Graph", fontsize=15)
+    ax.grid(False)
+    ax.plot(array_x, array_y)
+    ax.plot(array_x, array_y, 'ro')
+    pyplot.show()
+
 if __name__ == '__main__':
     files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets'
-    number_processes = 4
 
-    start_time = time()
-    files_array = list(glob.iglob(files_path + "/*.txt"))
-    separation_array = separate_content(files_array, number_processes)
-    threads = []
-    for file_batch in separation_array:
-        thread = threading.Thread(target=prepare_text, args=(file_batch,))
-        thread.start()
-        threads.append(thread)
+    number_processes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    times = []
+    for i in number_processes:
+        start_time = time()
+        for j in range(10):
+            files_array = list(glob.iglob(files_path + "/*.txt"))
+            separation_array = separate_content(files_array, i)
+            processes = []
 
-    for thread in threads:
-        thread.join()
+            for file_batch in separation_array:
+                process = mp.Process(target=prepare_text, args=(file_batch,))
+                process.start()
+                processes.append(process)
 
-    write_dictionary()
-    duration = time() - start_time
+            for process in processes:
+                process.join()
+            write_dictionary()
+        duration = (time() - start_time)/10
+        times.append(duration)
+
+    draw_results(times, number_processes)
 
     print('Multi dictionary is ready')
     print('Multi duration time: ' + str(duration))
