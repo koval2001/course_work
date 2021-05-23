@@ -5,10 +5,19 @@ import multiprocessing as mp
 import socket
 from time import time
 
+
+# global variables
+HOST = '127.0.0.1'
+PORT = 10000
 dictionary_word = {}
 mutex = mp.Lock()
 
 def prepare_text(files_array):
+    """
+    Normalizing words for building inverted index
+    :param files_path: list of files' path
+    :return:
+    """
     regex = re.compile('[^a-zA-Z]')
 
     for file_name in files_array:
@@ -24,6 +33,12 @@ def prepare_text(files_array):
 
 
 def inverted_index(current_line, file_name):
+    """
+    Creating an inverted index
+    :param current_line:
+    :param file_name:
+    :return:
+    """
     position_word = 0
     for word in current_line:
         mutex.acquire()
@@ -36,11 +51,21 @@ def inverted_index(current_line, file_name):
 
 
 def write_dictionary():
+    """
+    Writing inverted index to .txt file
+    :return:
+    """
     f = open('multi_dictionary.txt', 'w')
     f.write(json.dumps(dictionary_word, indent=4))
     f.close()
 
 def separate_content(files_array, number_processes):
+    """
+    Separating content for parallel processing
+    :param files_array:
+    :param number_processes:
+    :return:
+    """
     if len(files_array) < number_processes:
         return [files_array]
     files_batch = []
@@ -51,17 +76,36 @@ def separate_content(files_array, number_processes):
     return files_batch
 
 def lookup_query(query):
+    """
+    Seeking a word in inverted index
+    :param query:
+    :return: a word's position and files' names where it was found
+    """
     if(dictionary_word.get(query, False)) :
         return('The reasult of search: ' + json.dumps(dictionary_word[query],indent=4))
 
     return('Sorry, there is no such word :(')
 
 
+def server_actions(conn):
+    """
+    Server actions with Client
+    :param conn:
+    :return:
+    """
+    while True:
+        print('sending message...')
+        conn.sendall('\n Enter word: '.encode('utf-8'))
+        print('receiving message...')
+        data = conn.recv(1024)
+        if not data:
+            break
+        print('sending response...')
+        conn.sendall(lookup_query(data.decode('utf-8')).encode('utf-8'))
+
+
 if __name__ == '__main__':
     # server basics
-    HOST = '127.0.0.1'
-    PORT = 10000
-
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.bind((HOST, PORT))
     s.listen(5)
@@ -99,13 +143,4 @@ if __name__ == '__main__':
     # end of duration count block
 
     # server's communication with client
-    while True:
-        print('sending message...')
-        conn.sendall('\n Enter word: '.encode('utf-8'))
-        print('receiving message...')
-        data = conn.recv(1024)
-        if not data:
-            break
-        print('sending response...')
-        conn.sendall(lookup_query(data.decode('utf-8')).encode('utf-8'))
-    # end of server's communication with client
+    server_actions(conn)
