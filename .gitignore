@@ -1,1 +1,5 @@
 .idea/
+.DS_Store
+serial_dictionary.txt
+venv
+datasets/aclImdb/
