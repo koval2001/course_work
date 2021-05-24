@@ -65,7 +65,7 @@ def lookup_query(query):
 
 if __name__ == '__main__':
     # basic variables
-    files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets'
+    files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/aclImdb'
     start_time = time()
 
     # indexing

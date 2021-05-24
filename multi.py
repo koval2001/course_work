@@ -5,11 +5,14 @@ from time import time
 from matplotlib import pyplot
 import multiprocessing as mp
 
-dictionary_word = {}
-
-def prepare_text(files_array):
+def prepare_text(files_array, dictionary_word):
+    """
+    Normalizing words for building inverted index
+    :param files_path: list of files' path
+    :return:
+    """
     regex = re.compile('[^a-zA-Z]')
-
+    local_dict = {}
     for file_name in files_array:
         f = open(file_name, "r")
         text = f.readlines()
@@ -18,11 +21,17 @@ def prepare_text(files_array):
             current_line = []
             for word in word_list:
                 current_line.append(regex.sub('', word).lower())
-            inverted_index(current_line, file_name)
+            inverted_index(current_line, file_name, local_dict)
         f.close()
+    dictionary_word.update(local_dict)
 
-
-def inverted_index(current_line, file_name):
+def inverted_index(current_line, file_name, dictionary_word):
+    """
+    Creating an inverted index
+    :param current_line:
+    :param file_name:
+    :return:
+    """
     position_word = 0
     for word in current_line:
         if word not in dictionary_word.keys():
@@ -32,12 +41,22 @@ def inverted_index(current_line, file_name):
         position_word += 1
 
 
-def write_dictionary():
+def write_dictionary(dictionary_word):
+    """
+    Writing inverted index to .txt file
+    :return:
+    """
     f = open('multi_dictionary.txt', 'w')
     f.write(json.dumps(dictionary_word, indent=4))
     f.close()
 
 def separate_content(files_array, number_processes):
+    """
+    Separating content for parallel processing
+    :param files_array:
+    :param number_processes:
+    :return:
+    """
     if len(files_array) < number_processes:
         return [files_array]
     files_batch = []
@@ -46,6 +65,17 @@ def separate_content(files_array, number_processes):
         files_batch.append(files_array[part_size * process : part_size * (process + 1)])
     files_batch.append(files_array[part_size * (number_processes - 1):])
     return files_batch
+
+def lookup_query(query, dictionary_word):
+    """
+    Seeking a word in inverted index
+    :param query:
+    :return: a word's position and files' names where it was found
+    """
+    if(dictionary_word.get(query, False)) :
+        return('The reasult of search: ' + json.dumps(dictionary_word[query],indent=4))
+
+    return('Sorry, there is no such word :(')
 
 def draw_results(list, num_process):
     array_x = num_process
@@ -62,25 +92,33 @@ def draw_results(list, num_process):
     pyplot.show()
 
 if __name__ == '__main__':
-    files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets'
+    files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/aclImdb'
 
-    number_processes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    number_processes = 4
+    array_processes = [1, 2, 3, 4]
+    #number_processes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     times = []
-    for i in number_processes:
+
+    manager = mp.Manager()
+    dictionary_word = manager.dict()
+
+    for i in array_processes:
         start_time = time()
         for j in range(10):
             files_array = list(glob.iglob(files_path + "/*.txt"))
-            separation_array = separate_content(files_array, i)
+            separation_array = separate_content(files_array, number_processes)
             processes = []
 
             for file_batch in separation_array:
-                process = mp.Process(target=prepare_text, args=(file_batch,))
+                process = mp.Process(target=prepare_text, args=(file_batch, dictionary_word))
                 process.start()
                 processes.append(process)
 
             for process in processes:
                 process.join()
-            write_dictionary()
+
+            dict_word = dict(dictionary_word.items())
+            write_dictionary(dict_word)
         duration = (time() - start_time)/10
         times.append(duration)
 
