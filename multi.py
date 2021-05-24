@@ -78,6 +78,12 @@ def lookup_query(query, dictionary_word):
     return('Sorry, there is no such word :(')
 
 def draw_results(list, num_process):
+    """
+    Drawing results in diagram
+    :param list:
+    :param num_process:
+    :return:
+    """
     array_x = num_process
     array_y = list
 
@@ -94,8 +100,8 @@ def draw_results(list, num_process):
 if __name__ == '__main__':
     files_path = '/Users/dianakoval/Downloads/parallel_projects/course_work/datasets/aclImdb'
 
-    number_processes = 4
-    array_processes = [1, 2, 3, 4]
+    number_processes = 10
+    array_processes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     #number_processes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     times = []
 
@@ -122,7 +128,7 @@ if __name__ == '__main__':
         duration = (time() - start_time)/10
         times.append(duration)
 
-    draw_results(times, number_processes)
+    draw_results(times, array_processes)
 
     print('Multi dictionary is ready')
     print('Multi duration time: ' + str(duration))
